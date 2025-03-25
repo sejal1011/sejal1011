@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Sejal Maniyar</h1>
-  <h3>Azure Data Engineer | ETL Specialist | Business Intelligence Developer</h3>
+  <h3>Data Engineer | Cloud | ETL Specialist | Business Intelligence Developer</h3>
   
   <p>
     <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
